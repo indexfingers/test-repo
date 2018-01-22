@@ -1,0 +1,35 @@
+[
+	{
+		"encounterId": "abcd",
+		"encDate": "20170101",
+		"sex": "Male",
+		"owner": "Kanina",
+		"individualId": "EC-MB-0928",
+		"paths": [
+			"\/home\/ubuntu\/benTestImportFiles\/images\/EC-MB-0928 Branchial Shot.jpg"
+		],
+		"comments": [
+			"comment1",
+			"comment2"
+		],
+		"species": "Mobula birostris",
+		"locationId": "Ecuador"
+	},
+	{
+		"encounterId": "enc2",
+		"encDate": "20170101",
+		"sex": "Female",
+		"owner": "BenAdmin",
+		"individualId": "MV-MA-0019",
+		"paths": [
+			"\/home\/ubuntu\/benTestImportFiles\/images\/MV-MA-0019.jpg",
+			"\/home\/ubuntu\/benTestImportFiles\/images\/MV-MA-0019_2014_07_14.JPG"
+		],
+		"comments": [
+			"comment1",
+			"comment2"
+		],
+		"species": "Mobula alfredi",
+		"locationId": "Maldives Archipelago"
+	}
+]
