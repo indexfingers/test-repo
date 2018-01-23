@@ -47,5 +47,21 @@
 		],
 		"species": "Mobula birostris",
 		"locationId": "Ecuador"
-	}
+	},
+  {
+    "encounterId": "abcd",
+    "encDate": "20170101",
+    "sex": "Male",
+    "owner": "Kanina",
+    "individualId": "EC-MB-0928",
+    "paths": [
+      "\/home\/ubuntu\/benTestImportFiles\/images\/EC-MB-0928 Branchial Shot.jpg"
+    ],
+    "comments": [
+      "comment1",
+      "comment2"
+    ],
+    "species": "Mobula birostris",
+    "locationId": "Ecuador"
+  }
 ]
